@@ -1,0 +1,45 @@
+.login-id, .login-pw{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+	
+.login-wrapper{
+	margin: 0 auto;
+	border: 1px solid orange;
+	width: 500px;
+	text-align: center;
+	margin-bottom: 40px;
+}
+	
+.login-logo{
+	color:#e95420;
+	font-size:30px;
+	font-weight: bold;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+	
+.loginform{
+	font-size:18px;
+}
+	
+.loginform a{
+	text-decoration: none;
+	color:black;
+}
+	
+.login-button{
+	color:white;
+	background-color: #e95420;
+	border-radius: 5px;
+	width:240px;
+	height:50px;
+	border: 0px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	font-size:20px;
+}
+	
+.joindiv{
+	margin-bottom:40px;
+}

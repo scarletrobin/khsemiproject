@@ -1,0 +1,13 @@
+.postview-wrap{
+	margin: 0 auto;
+	width: 600px;
+}
+	
+.postcontent{
+	height:200px;
+}
+	
+.postview-button{
+	display:flex;
+	justify-content:flex-end;
+}

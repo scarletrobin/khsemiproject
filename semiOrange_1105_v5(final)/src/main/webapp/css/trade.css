@@ -1,0 +1,186 @@
+@charset "UTF-8";
+.container2 {
+	max-width: 1100px;
+}
+.trade-form {
+	margin-bottom: 100px;
+}
+.must {
+	color: red;
+}
+.price-wrap {
+	overflow: hidden;
+}
+.price-wrap>div {
+	float: left;
+	margin-top: 3px;
+}
+#trade-price {
+	padding: 7px;
+}
+.cursor-img {
+	cursor: pointer;
+}
+.trade-img {
+	overflow: hidden;
+}
+.trade-img>div {
+	float: left;
+}
+.trade-img-info {
+	margin-top: 10px;
+	margin-bottom: 20px;
+	width: 100%;
+}
+.trade-img-info>p {
+	margin-bottom: 5px;
+	font-size: 14px;
+	color: #f95420;
+}
+.img-view {
+   width:146px;
+   height:146px;
+   margin-right:5px;
+   margin-bottom: 5px;
+}
+.span-rag-chk {
+	font-size: 15px;
+	display: block;
+	margin-top: 20px;	
+}
+.trade-add {
+	font-size: 13px;
+	color: gray;
+}
+.trade-add2 {
+	font-size: 14px;
+	color: gray;
+}
+.overflow-text {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.card-img>img {
+	width: 249px;
+	height: 249px;
+}
+.trade-img-view {
+	width: 445px;
+	height: 445px;
+}
+.img-margin {
+	margin-left: 40px;
+	margin-top: 10px;
+}
+.price-text {
+	font-size: 35px;
+	font-weight: bold;
+}
+.price-text-won {
+	font-size: 25px;
+}
+.text-detail {
+	padding-right: 5px;
+	font-size: 14px;
+}
+.text-tap {
+	font-size: 14px;
+	margin-bottom: 0px;
+}
+.text-tap2 {
+	font-size: 15px;
+	margin-bottom: 13px;
+}
+.text-tap3 {
+	font-size: 15px;
+	padding-left: 14px;
+	margin-bottom: 2px;
+}
+.blue {
+	color: blue;
+}
+.coral {
+	color: coral;
+}
+.red {
+	color: red;
+}
+.detail-wrap {
+	overflow: hidden;
+	height: 40px;
+	line-height: 40px;
+}
+.detail-wrap>div {
+	float: left;
+}
+.profile {
+    width: 50px;
+    height: 50px;
+    border: 1px solid lightgray;
+    border-radius: 50px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.profile-left {
+	padding-top: 5px;
+}
+.profile>img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.profile-wrap {
+	overflow: hidden;
+}
+.profile-wrap>div {
+	float: left;
+}
+.button-wrap {
+	text-align: center;
+}
+.button-wrap>button {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 5px;
+}
+.button-wrap>a {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 5px;
+}
+.card-margin-bottom{
+	margin-bottom: 100px;
+}
+.trade-info-tap {
+	font-size: 18px;
+}
+.trade-info-tap>p {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.trade-info-content {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.trade-info-content span {
+	font-size: 17px;
+}
+.trade-history-img>a>img {
+	width: 120px;
+	height: 120px;
+}
+.trade-status {
+	width: 120px;
+	margin: 0 auto;
+}
+.localcity-margin {
+	margin-top: 5px;
+}
+.empty-list {
+     width: 100%;
+     height: 400px;
+     line-height: 400px;
+     font-size: 20px;
+     color: #E95420;
+}

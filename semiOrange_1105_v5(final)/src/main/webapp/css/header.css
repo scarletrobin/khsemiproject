@@ -1,0 +1,58 @@
+.nav{
+	margin-left: 30px;
+}
+.navbar-brand{
+	font-family: "NotoBold";
+	margin-left: 1rem;
+	font-size : 25px;
+}
+
+.headnavi-list{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: inline-flex;
+	align-items: center;
+}
+label[for="search"]:hover {
+	cursor: pointer;
+}
+.navbar-brand{
+	font-family: "NotoBold";
+	margin-left: 1rem;
+	font-size : 25px;
+}
+@media (min-width: 992px) {
+.navbar-brand {
+    display: none;
+}
+}
+.header-content{
+	margin: 0 auto;
+}
+.navi1>ul{
+	margin: 0 auto;
+	align-items: center;
+}
+.nav-link{
+	font-size: 18px;
+}
+.nav-item{
+	margin: 0;
+}
+.headnavi-list>li{
+	font-size: 18px;
+	margin-right: 40px;
+	padding: 0;
+}
+#searchBar{
+	margin-right: 50px;
+	height: 50px;
+
+}
+.headnavi-list>li>a{
+	text-decoration: none;
+}
+.navi1 .nav-item{
+	padding-right: 100px;
+}

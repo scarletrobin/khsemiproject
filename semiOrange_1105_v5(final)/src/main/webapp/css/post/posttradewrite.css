@@ -1,0 +1,19 @@
+.postreply-wrap{
+	margin:0 auto;
+	width:500px;
+}
+	
+#postTo{
+	width:80%;
+}
+	
+.middle{
+	display: flex;
+	justify-content:space-between;
+
+}
+
+.container{
+	min-width:540px !important;
+	margin:0;
+}

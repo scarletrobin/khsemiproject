@@ -1,0 +1,50 @@
+.agreement{
+	color:black;
+}
+.container-wrapper{
+	margin: 0 auto;
+	width:600px;
+	border: 1px solid orange;
+	margin-bottom:30px;
+}
+	
+.join-wrap{
+	width:400px;
+	margin: 0 auto;
+	margin-top:30px;
+	margin-bottom:30px;
+}
+	
+.join-logo{
+	text-align: center;
+	color:orange;
+	font-size: 30px;
+}
+	
+.joinbtn{
+	width:100%;	
+}
+	
+#memberId{
+	width:60%;
+}
+	
+#postcode{
+	width:60%;
+}
+	
+#email{
+	width:65%;
+}
+	
+.middle{
+	display: flex;
+	justify-content:space-between;
+
+}
+	
+#authCode{
+	width: 40%;
+ 	display: inline-block;
+ 	height: 48px;
+}
